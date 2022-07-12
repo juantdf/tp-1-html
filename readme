@@ -1,0 +1,8 @@
+Pasos:
+1. Crear/Clonar repositorio de un compañero
+                                    git clone
+2.Crear un branch para cada uno, su.nombre/consigna1
+                        git checkout -b nombre.integrante/consigna1 (juan.lastra/consigna1)
+3. consigna 1: -rama main vacia o solo con .gitignore o readme
+               -en su branch crear un archivo html por persona, uno crea el index.html el resto elija nombres
+               
